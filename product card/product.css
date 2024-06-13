@@ -1,0 +1,27 @@
+.logo{
+width: 68px;
+}
+header{
+    background-color: gray;
+    height: 130px;
+    
+}
+a{
+    position: relative;
+    margin-left: 300px;
+     color: black;
+     bottom: 80px;
+     font-size: 30px; 
+     display: inline;
+    } 
+.block{
+    border: 7px black solid;
+    display:block;
+   text-align: center ;
+    bottom:500px ;
+font-size: 100px;
+color: black;
+
+}
+
+   
